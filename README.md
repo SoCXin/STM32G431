@@ -12,8 +12,7 @@
 ### [收录资源](https://github.com/sochub/STM8S105)
 
 * [文档](docs/)
-* [资源](src/)
-    * [SDCC工程](src/SDCC)
+* [SDCC工程](sdcc/)
 
 ### [关联资源](https://github.com/sochub)
 
