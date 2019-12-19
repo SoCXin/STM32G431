@@ -1,25 +1,27 @@
 ﻿# [STM8S105](https://github.com/sochub/STM8S105)
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](https://stop.stops.top) 
 
-#### 厂商：[ST](https://github.com/sochub/ST) 
-#### 架构：[STM8](https://github.com/sochub/STM8)
-#### 收录芯片定级：[Level](https://github.com/sochub/Level)
-## [STM8S105简介](https://github.com/sochub/STM8S105/wiki) 
+#### [Vendor](https://github.com/sochub/Vendor)：[ST](https://github.com/sochub/ST)
+#### [STM8](https://github.com/sochub/STM8)：[STM8](https://github.com/sochub)
+#### [Level](https://github.com/sochub/Level)：16MHz 
 
+## [STM8S105描述](https://github.com/sochub/STM8S105/wiki) 
 
+[STM8S105](https://github.com/sochub/STM8S105) 是[STM8S](https://github.com/sochub/STM8S)系列高性价比产品
 
 ### [收录资源](https://github.com/sochub/STM8S105)
 
 * [文档](docs/)
-* [SDCC工程](sdcc/)
+* [资源](src/)
 
 ### [关联资源](https://github.com/sochub)
 
-* [SDCC编译](https://github.com/sochub/sdcc)
+* [SDCC](https://github.com/sochub/sdcc)
+* [Platform H02](https://github.com/OS-Q/H02)
 
-### [选型建议](https://github.com/sochub/STM8S105)
+### [选型建议](https://github.com/sochub)
 
-STM8S105系列单片机是STM8系列常用型号，拥有丰富的外设
+- 降级方案[STM8S103](https://github.com/sochub/STM8S103) 
 
 ##  [SoC资源平台](http://www.qitas.cn)  
