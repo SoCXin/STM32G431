@@ -1,15 +1,15 @@
 {
     "type":"MCU",
-    "name":"STM32F431",
+    "name":"STM32G431",
     "package":["LQFP144","LQFP100","LQFP64","LQFP48","QFN36"],
     "version":"1.0.0",
     "LQFP48": {
-        "name":"STM32F431C",
+        "name":"STM32G431C",
         "peripheral": ["ADC","TIM","UART1","UART2","I2C","SPI","PWM"],
         "GPIO":18
     },
     "QFN36": {
-        "name":"STM32F431T",
+        "name":"STM32G431T",
         "peripheral": ["ADC","TIM","UART1","UART2","I2C","SPI","PWM"],
         "GPIO":26
     }

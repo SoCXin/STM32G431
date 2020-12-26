@@ -1,15 +1,15 @@
 {
     "type":"MCU",
-    "name":"STM32F431",
-    "series":["STM32F431"],
+    "name":"STM32G431",
+    "series":["STM32G431"],
     "peripheral": ["ADC","UART","I2C","SPI","PWM"],
     "package":["LQFP144","LQFP100","LQFP64","LQFP48","QFN36"],
     "manufacturer": {
         "vendor":"ST",
-        "homepage":"https://my.st.com/content/my_st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f1-series/STM32F431.html"
+        "homepage":"https://my.st.com/content/my_st_com/zh/products/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f1-series/STM32G431.html"
     },
-    "url":"http://www.SoC.xin/STM32F431",
-    "repo":"https://github.com/SoCXin/STM32F431",
+    "url":"http://www.SoC.xin/STM32G431",
+    "repo":"https://github.com/SoCXin/STM32G431",
     "version":"1.0.0",
     "UID": {
         "bits": 96,
@@ -21,7 +21,7 @@
         "architecture":"Cortex-M3",
         "Freq":[64,72]
     },
-    "STM32F431": {
+    "STM32G431": {
         "SRAM":20000,
         "Flash":64000,
         "package":"QFN20",
